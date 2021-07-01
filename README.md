@@ -31,3 +31,18 @@ More information in their docs: <https://stripe.com/docs/testing#cards>
 * Rails 4.2 [Rails Guide](http://guides.rubyonrails.org/v4.2/)
 * PostgreSQL 9.x
 * Stripe
+
+
+
+
+Main page
+![image1](https://github.com/moseskim25/jungle-rails/blob/master/docs/main.png?raw=true);
+
+Add items to cart
+![image2](https://github.com/moseskim25/jungle-rails/blob/master/docs/cart.png?raw=true);
+
+See order summary
+![image3](https://github.com/moseskim25/jungle-rails/blob/master/docs/order%20summary.png?raw=true);
+
+Authorization required to access admin privileges
+![image4](https://github.com/moseskim25/jungle-rails/blob/master/docs/order%20summary.png?raw=true);
